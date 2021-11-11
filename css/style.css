@@ -1,0 +1,7 @@
+h2 {
+    text-align: center;
+    color: brown;
+    font-size: 100px;
+    font-family: Pompadur; /* Гарнитура шрифта */
+    src: url(fonts/kishki-regualr.otf); /* Путь к файлу со шрифтом */
+}
